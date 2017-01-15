@@ -15,6 +15,8 @@ namespace HelloWorld
             Console.WriteLine("Luna is mine");
             Console.WriteLine("Earth is mine");
             Console.WriteLine("Earth on Local repository");
+            Console.WriteLine("Earth on soha");
+            ==
         }
     }
 }
